@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("第二次修改");
         System.out.println("hello git3!");
         System.out.println("hello git4 master分支aaa");
+        System.out.println("hot-fix test");
     }
 }
